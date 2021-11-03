@@ -1,0 +1,11 @@
+{
+    "name": "marcell/pdf",
+    "description": "PDF HTML-b\u0000l",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Marcell\\Pdf\\": "src/"
+        }
+    },
+    "require": {}
+}
